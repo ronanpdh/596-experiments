@@ -3,12 +3,11 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHouse, faMusic, faCamera, faGhost, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
-const CircularNav = () => {
+export default function CircularNav() {
     const [isOpen, setIsOpen] = useState(false);
 
     const toggleNav = () => setIsOpen(!isOpen);
-    
-    // Change the nav items array to update icons, labels and links
+
     const navItems = [
         { icon: faCamera, label: 'Camera', href: '/#'},
         { icon: faHouse, label: 'Home', href: '/#' },
@@ -80,5 +79,3 @@ const CircularNav = () => {
         </div>
     );
 };
-
-export default CircularNav;
