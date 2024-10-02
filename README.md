@@ -1,4 +1,6 @@
-# 596-experiments ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.596.studio%2F&up_message=596%20Live&up_color=green&down_message=596%20down&down_color=orange&style=for-the-badge)
+# 596-experiments 
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.596.studio%2F&up_message=596%20Live&up_color=green&down_message=596%20down&down_color=orange&style=for-the-badge)
 
 
 A collection of UI experiments. 
