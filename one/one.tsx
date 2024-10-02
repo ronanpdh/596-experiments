@@ -1,3 +1,4 @@
+// Requires framer motion
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 
