@@ -15,6 +15,8 @@ Most of these UI experiments use the following:
 
 ---
 
+**Note** these were created in a React environment and havent been tested elsewhere
+
 You will need to have these installed and configured to use the UI components. 
 
 If you do use these please let me know what you think or if anything can be improved. 
