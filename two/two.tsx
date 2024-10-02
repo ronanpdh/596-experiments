@@ -1,3 +1,4 @@
+// Requires framer motion, tailwind and font-awesome as below
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
