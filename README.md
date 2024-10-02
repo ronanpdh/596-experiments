@@ -8,7 +8,7 @@ A collection of UI experiments.
 You can view and interact with the components here [experiments](https://www.596.studio/)
 
 
-Most of these UI experiments use the following:
+Most of these UI experiments use the following, check the top of the component files for what needs installing.
 
 [**Tailwind**](https://tailwindui.com/)
 
