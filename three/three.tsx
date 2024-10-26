@@ -79,7 +79,7 @@ export default function StackedTabs({ orientation }: StackedCardsProps) {
     };
 
     return (
-        <div className="relative w-full h-screen flex items-center">
+        <div className="relative w-full flex items-center">
             <motion.div 
                 className="relative"
                 onHoverStart={() => setIsHovered(true)}
